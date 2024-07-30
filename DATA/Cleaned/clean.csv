@@ -1,0 +1,6 @@
+client_id,design,age,gender,logins,calls,completed,time_spent,errors
+1,control,25,M,10,3,1,300,0
+2,control,30,F,15,4,1,320,1
+3,test,35,M,10,2,0,310,2
+4,test,40,F,5,1,1,250,0
+5,control,45,M,8,5,0,260,1
